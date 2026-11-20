@@ -1,0 +1,420 @@
+{
+  "main": {
+    "id": "3fb75a5d9202d49f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fae3d3d961d208f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd923621361e251c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRL/Summary of RRLs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary of RRLs"
+            }
+          },
+          {
+            "id": "f93c940a41f74c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRL/RRL Summary/Drone RRL Summaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drone RRL Summaries"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61a62455e66abd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58584921a944f69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b84dc313dd7931f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9f9cbb99b40cb89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1605ac573101e453",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ea3948abc55f85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e0601ca5bcdf87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40de142b15cd1b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "31536671e1affd68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "972669433f1ed43f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "583d386aa2af6601",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e42a6fa81bf54650",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "3ab0283b7a0b632d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "42f1e1ca2b13dd9f",
+        "type": "window",
+        "children": [
+          {
+            "id": "e976254c3b773e1c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ca2efadefb264d1",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "RRL/RRL PDFs/UAV-Aided_Emergency_Environmental_Monitoring_in_Infrastructure-Less_Areas_LoRa_Mesh_Networking_Approach.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "UAV-Aided_Emergency_Environmental_Monitoring_in_Infrastructure-Less_Areas_LoRa_Mesh_Networking_Approach"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 413,
+        "y": 0,
+        "width": 773,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "9956d088c058eb1a",
+        "type": "window",
+        "children": [
+          {
+            "id": "aaab31e566790022",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35c74f6af8e3f5c6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "RRL/RRL PDFs/Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "cfa8e2e623862474",
+        "type": "window",
+        "children": [
+          {
+            "id": "16a34e7b2f4e9992",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5113530921de00e2",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "RRL/RRL PDFs/Bio-inspired multi-hop clustering algorithm for FANET.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Bio-inspired multi-hop clustering algorithm for FANET"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "fe2aec2f21eec167",
+        "type": "window",
+        "children": [
+          {
+            "id": "96932efe8aab05ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "56c11322d1c7d04c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "RRL/RRL PDFs/Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "af873f453a46969a",
+        "type": "window",
+        "children": [
+          {
+            "id": "8d99c67f8ed2cf18",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0f0e9ba7e112157e",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "RRL/RRL PDFs/UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "85c0ca8bfb4146c2",
+        "type": "window",
+        "children": [
+          {
+            "id": "e0d5ebf10989879d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1f6ccbfc80a12d1d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "RRL/RRL PDFs/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cd923621361e251c",
+  "lastOpenFiles": [
+    "RRL/RRL PDFs/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
+    "RRL/RRL PDFs/Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications.pdf",
+    "RRL/RRL PDFs/Bio-inspired multi-hop clustering algorithm for FANET.pdf",
+    "RRL/Summary of RRLs.md",
+    "RRL/RRL PDFs/UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas.pdf",
+    "RRL/RRL Summary/UAV-Assisted Mesh Network for Emergency Communication in Disaster Areas.md",
+    "RRL/RRL Summary/UAV-Aided Emergency Environmental Monitoring in Infrastructure-Less Areas LoRa Mesh Networking Approach.md",
+    "RRL/RRL Summary/Localization and Clustering Based on Swarm Intelligence in UAV Networks for Emergency Communications.md",
+    "RRL/RRL Summary/Architecture for Drone Assisted Emergency Ad-hoc Network for Disaster Rescue Operations.md",
+    "RRL/RRL Summary/Drone RRL Summaries.md",
+    "RRL/RRL Summary/Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks.md",
+    "RRL/RRL Summary/Field Trial of Drones with an Aerial Wireless Mesh Network Control System.md",
+    "RRL/RRL PDFs/Field_Trial_of_Drones_with_an_Aerial_Wireless_Mesh_Network_Control_System.pdf",
+    "RRL/RRL PDFs/Distributed_Clustering_for_User_Devices_Under_UAV_Coverage_Area_during_Disaster_Recovery.pdf",
+    "RRL/RRL PDFs/Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks.pdf",
+    "RRL/RRL PDFs/Unconfirmed 158233.crdownload",
+    "Pasted image 20261120135127.png",
+    "RRL/RRL PDFs/UAV-Aided_Emergency_Environmental_Monitoring_in_Infrastructure-Less_Areas_LoRa_Mesh_Networking_Approach.pdf",
+    "RRL/RRL PDFs/Unconfirmed 1753.crdownload",
+    "Welcome.md"
+  ]
+}
