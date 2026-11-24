@@ -6,7 +6,7 @@ Drones in Emergencies: A review of recent developments and future directions
 
 
 > ([[U-Mesh_Deploying_UAV-Mesh_Network_for_Automatic_Powerline_Inspection_in_Remote_Areas.pdf#page=7&annotation=542R|U-Mesh_Deploying_UAV-Mesh_Network_for_Automatic_Powerline_Inspection_in_Remote_Areas, p.7]])
-> Inspection UAV.  Due to concerns about security and in- tellectual property protection, existing commercial UAVs are typically highly closed systems, making it difficult to transmit data to the cloud server via the mesh nodes. We <mark style="background:#fff88f">adopt the customized UAV (cooperated with a UAV manufacturer),</mark> as shown in Fig. 7 (b), <mark style="background:#fff88f">which facilitates the integration of communication and control modules with mesh nodes.</mark> Particularly, the flight endurance, parallel flight speed, and take-off altitude can reach 63  mins, 23  m/s, and 5, 000  m, respectively. The transmission distance between the UAV and controller can reach 15  km, and the wind-resistant of the UAV can reach 7. Besides, the maximum load of the UAV is 3  kg.
+> Inspection UAV.  Due to concerns about security and intellectual property protection, existing commercial UAVs are typically highly closed systems, making it difficult to transmit data to the cloud server via the mesh nodes. We <mark style="background:#fff88f">adopt the customized UAV (cooperated with a UAV manufacturer),</mark> as shown in Fig. 7 (b), <mark style="background:#fff88f">which facilitates the integration of communication and control modules with mesh nodes.</mark> Particularly, the flight endurance, parallel flight speed, and take-off altitude can reach 63  mins, 23  m/s, and 5, 000  m, respectively. The transmission distance between the UAV and controller can reach 15  km, and the wind-resistant of the UAV can reach 7. Besides, the maximum load of the UAV is 3  kg.
 
 
 [[Implementation_of_Cluster-Based_UAV_Swarm_Networks_for_Emergency_Communications.pdf|Shah,2025]]
@@ -38,4 +38,9 @@ Components:
 * Estimated payload capacity 
 
 [[Mesako, 2025]]
-1. [[DJI Neo 2 Fly More Combo]]
+1.  DJI Flymore Combo 2
+2. > ([[Field_Trial_of_Drones_with_an_Aerial_Wireless_Mesh_Network_Control_System.pdf#page=5&selection=136,0,146,1&color=yellow|Field_Trial_of_Drones_with_an_Aerial_Wireless_Mesh_Network_Control_System, p.5]])
+>  We constructed an aerial wireless mesh network by flying actual drones<mark style="background:#fff88f"> (FMC-02) equipped with Raspberry Pi 4 Model B</mark>, which implements the SDN switch.
+* Utilized 4 drones for field testing 
+* 2.4 GHz WiFi link for mesh, 920 MHz radio link for the drone control 
+

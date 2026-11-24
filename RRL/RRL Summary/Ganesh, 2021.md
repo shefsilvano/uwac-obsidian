@@ -2,10 +2,14 @@
 Author/s: Ganesh, Gopalasamy, Sai Shibu N B
 Title: Architecture for Drone Assisted Emergency Ad-hoc Network for Disaster Rescue Operations
 Publication: COMSNETS
-Category: "[[Architecture]]"
+Category: "[[System Architecture]]"
 Summary: Proposed UbiQNet architecture that establishes the use of two WiFi-based communication protocol to form a mesh network.
 tags:
 Year: "2021"
+Needs:
+Solutions:
+Differentiation:
+Benefits:
 ---
 
 
@@ -39,3 +43,16 @@ Year: "2021"
 * UAV Return to Home function 
 
 
+
+# Notes on Synthesis 
+
+### Needs
+gaps 
+### Solutions 
+existing systems, frameworks, or methods
+
+### Differentiation 
+limitation of other works that this design resolves
+
+### Benefits 
+expected performance gain, user impact 

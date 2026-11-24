@@ -2,7 +2,7 @@
 Title: "AI-Powered Drone Network for Disaster Response: Enhancing Damage Detection and Communication Beyond 5G"
 Author/s: Shah, Patel, Nair, Vyas, Desai, Tanwar
 Publication: GlobeCom Workshop (GCW)
-Category: "[[Architecture]]"
+Category: "[[System Architecture]]"
 Summary: System with AI-powered drones for speedy and accurate infrastructure damage with 5G capabilities of extending cellular network coverage.
 Reading Status:
 tags:

@@ -8,12 +8,13 @@ views:
       property: Category
       direction: ASC
     order:
+      - file.name
+      - Summary
       - Author/s
       - Title
       - Year
       - Category
       - Publication
-      - Summary
     sort:
       - property: Author/s
         direction: ASC
@@ -22,7 +23,8 @@ views:
       - property: Title
         direction: DESC
     columnSize:
-      note.Author/s: 222
+      note.Summary: 403
+      note.Author/s: 76
       note.Title: 383
       note.Year: 63
       note.Category: 255

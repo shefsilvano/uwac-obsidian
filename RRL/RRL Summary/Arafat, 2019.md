@@ -9,6 +9,10 @@ tags:
   - clustering
   - PSO
 Year: "2019"
+Needs:
+Solutions:
+Differentiation:
+Benefits:
 ---
 
 [[Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications.pdf]]

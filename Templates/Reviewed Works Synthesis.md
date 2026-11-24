@@ -18,3 +18,12 @@ tags:
 
 > [!important] Components
 > Important components and equipments used in their study
+
+
+>[!question] Needs 
+>
+NSDB of Reviewed works for better identification of improvements and novelty 
+* Needs 
+* Solutions
+* Differentiation
+* Benefits 
