@@ -1,5 +1,12 @@
-[[UAV-Assisted Mesh Network for Emergency Communication in Disaster Areas]]
-
+---
+Author/s: Rabahi, Boudjit,  and Benarous
+Title: UAV-assisted Mesh Network for Emergency Communication in Disaster Areas
+Publication: International Symposium on Networks, Computers, and Communications (ISNCC)
+Category: "[[Algorithms]]"
+Summary: Proposed a new routing protocol with Boids of Reynolds (BR) swarm intelligence applied with Optimized Link State Routing (OLSR) algorithm (BR-OLSR) for a UAV-based mesh network.
+Year: "2023"
+---
+[[UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas.pdf]]
 
 # Essence 
 Drone swarm stability impacting the connection stability of a mesh network on air. This study proposes a routing protocol for the drones(?) 

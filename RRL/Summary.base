@@ -1,0 +1,29 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.folder == "RRL/RRL Summary"
+    groupBy:
+      property: Category
+      direction: ASC
+    order:
+      - Author/s
+      - Title
+      - Year
+      - Category
+      - Publication
+      - Summary
+    sort:
+      - property: Author/s
+        direction: ASC
+      - property: Year
+        direction: DESC
+      - property: Title
+        direction: DESC
+    columnSize:
+      note.Author/s: 222
+      note.Title: 383
+      note.Year: 63
+      note.Category: 255
+      note.Publication: 75

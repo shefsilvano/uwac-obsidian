@@ -1,55 +1,149 @@
 {
   "main": {
-    "id": "3fb75a5d9202d49f",
+    "id": "06a7ce3ec3880bf9",
     "type": "split",
     "children": [
       {
-        "id": "6fae3d3d961d208f",
+        "id": "2981eeb943199c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "cd923621361e251c",
+            "id": "1e61c13a1f476915",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "RRL/Summary of RRLs.md",
-                "mode": "source",
-                "source": false
+                "file": "RRL/__Sources/UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas.pdf",
+                "page": 2,
+                "left": -128,
+                "top": 490,
+                "zoom": 1.01
               },
-              "icon": "lucide-file",
-              "title": "Summary of RRLs"
+              "icon": "lucide-file-text",
+              "title": "UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas"
             }
           },
           {
-            "id": "f93c940a41f74c49",
+            "id": "04d15a886077b99e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "RRL/__Sources/Unmanned_Aerial_Vehicle_Relaying_System_in_Forest_Disaster_Areas.pdf",
+                "page": 3,
+                "left": -142,
+                "top": 114,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Unmanned_Aerial_Vehicle_Relaying_System_in_Forest_Disaster_Areas"
+            }
+          },
+          {
+            "id": "c26919e51163e750",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "RRL/__Sources/Improving_FANET_Communication_with_a_QoS_Optimized_Location-Aided_Routing_Protocol.pdf",
+                "page": 2,
+                "left": 54,
+                "top": 22,
+                "zoom": 1.1
+              },
+              "icon": "lucide-file-text",
+              "title": "Improving_FANET_Communication_with_a_QoS_Optimized_Location-Aided_Routing_Protocol"
+            }
+          },
+          {
+            "id": "1a310d4f25c6a29b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RRL/RRL Summary/Drone RRL Summaries.md",
+                "file": "RRL/RRL Summary/Maesako, 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drone RRL Summaries"
+              "title": "Maesako, 2025"
+            }
+          },
+          {
+            "id": "20080f5c38e6e358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRL/Drone/Lakra, 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lakra, 2025"
+            }
+          },
+          {
+            "id": "acdf687f2ff158c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRL/RRL Summary/Ganesh, 2021.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ganesh, 2021"
+            }
+          },
+          {
+            "id": "4d36c8f344f9f9a4",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "RRL/Summary.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-table",
+              "title": "Summary"
+            }
+          },
+          {
+            "id": "4b112abc1e0952c1",
+            "type": "leaf",
+            "dimension": 14.285714285714286,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "RRL/__Sources/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
+                "page": 5,
+                "left": -11,
+                "top": 32,
+                "zoom": 1.3936023655119116
+              },
+              "icon": "lucide-file-text",
+              "title": "Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "61a62455e66abd20",
+    "id": "d4d7d5ac3929ac25",
     "type": "split",
     "children": [
       {
-        "id": "f58584921a944f69",
+        "id": "699b3c318ff5b048",
         "type": "tabs",
         "children": [
           {
-            "id": "7b84dc313dd7931f",
+            "id": "2ff1972545c15424",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +158,7 @@
             }
           },
           {
-            "id": "d9f9cbb99b40cb89",
+            "id": "7a0b45cae9d9a08e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +175,7 @@
             }
           },
           {
-            "id": "1605ac573101e453",
+            "id": "91579727229fdd92",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,39 +194,20 @@
     "width": 200
   },
   "right": {
-    "id": "9ea3948abc55f85f",
+    "id": "91d1abb012276ae7",
     "type": "split",
     "children": [
       {
-        "id": "c8e0601ca5bcdf87",
+        "id": "1ea2eff5827836f8",
         "type": "tabs",
         "children": [
           {
-            "id": "e40de142b15cd1b8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "31536671e1affd68",
+            "id": "9b78832a582ce26b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "RRL/RRL PDFs/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -141,7 +216,7 @@
             }
           },
           {
-            "id": "972669433f1ed43f",
+            "id": "055afa9970466861",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,7 +231,7 @@
             }
           },
           {
-            "id": "583d386aa2af6601",
+            "id": "4fd52cba2b95aaf6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -170,12 +245,12 @@
             }
           },
           {
-            "id": "e42a6fa81bf54650",
+            "id": "51acc77da6f3270d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "RRL/RRL Summary/Ganesh 2021.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,12 +258,32 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "357f1ea1261788e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RRL/RRL PDFs/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,225 +291,54 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "floating": {
-    "id": "3ab0283b7a0b632d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "42f1e1ca2b13dd9f",
-        "type": "window",
-        "children": [
-          {
-            "id": "e976254c3b773e1c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ca2efadefb264d1",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "RRL/RRL PDFs/UAV-Aided_Emergency_Environmental_Monitoring_in_Infrastructure-Less_Areas_LoRa_Mesh_Networking_Approach.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "UAV-Aided_Emergency_Environmental_Monitoring_in_Infrastructure-Less_Areas_LoRa_Mesh_Networking_Approach"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 413,
-        "y": 0,
-        "width": 773,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "9956d088c058eb1a",
-        "type": "window",
-        "children": [
-          {
-            "id": "aaab31e566790022",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "35c74f6af8e3f5c6",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "RRL/RRL PDFs/Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "cfa8e2e623862474",
-        "type": "window",
-        "children": [
-          {
-            "id": "16a34e7b2f4e9992",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5113530921de00e2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "RRL/RRL PDFs/Bio-inspired multi-hop clustering algorithm for FANET.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Bio-inspired multi-hop clustering algorithm for FANET"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "fe2aec2f21eec167",
-        "type": "window",
-        "children": [
-          {
-            "id": "96932efe8aab05ec",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "56c11322d1c7d04c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "RRL/RRL PDFs/Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "af873f453a46969a",
-        "type": "window",
-        "children": [
-          {
-            "id": "8d99c67f8ed2cf18",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0f0e9ba7e112157e",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "RRL/RRL PDFs/UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "85c0ca8bfb4146c2",
-        "type": "window",
-        "children": [
-          {
-            "id": "e0d5ebf10989879d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f6ccbfc80a12d1d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "RRL/RRL PDFs/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "cd923621361e251c",
+  "active": "4b112abc1e0952c1",
   "lastOpenFiles": [
-    "RRL/RRL PDFs/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
-    "RRL/RRL PDFs/Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications.pdf",
-    "RRL/RRL PDFs/Bio-inspired multi-hop clustering algorithm for FANET.pdf",
+    "RRL/RRL Summary/Ganesh, 2021.md",
+    "RRL/Summary.base",
     "RRL/Summary of RRLs.md",
-    "RRL/RRL PDFs/UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas.pdf",
-    "RRL/RRL Summary/UAV-Assisted Mesh Network for Emergency Communication in Disaster Areas.md",
-    "RRL/RRL Summary/UAV-Aided Emergency Environmental Monitoring in Infrastructure-Less Areas LoRa Mesh Networking Approach.md",
-    "RRL/RRL Summary/Localization and Clustering Based on Swarm Intelligence in UAV Networks for Emergency Communications.md",
-    "RRL/RRL Summary/Architecture for Drone Assisted Emergency Ad-hoc Network for Disaster Rescue Operations.md",
-    "RRL/RRL Summary/Drone RRL Summaries.md",
-    "RRL/RRL Summary/Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks.md",
-    "RRL/RRL Summary/Field Trial of Drones with an Aerial Wireless Mesh Network Control System.md",
-    "RRL/RRL PDFs/Field_Trial_of_Drones_with_an_Aerial_Wireless_Mesh_Network_Control_System.pdf",
-    "RRL/RRL PDFs/Distributed_Clustering_for_User_Devices_Under_UAV_Coverage_Area_during_Disaster_Recovery.pdf",
-    "RRL/RRL PDFs/Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks.pdf",
-    "RRL/RRL PDFs/Unconfirmed 158233.crdownload",
-    "Pasted image 20261120135127.png",
-    "RRL/RRL PDFs/UAV-Aided_Emergency_Environmental_Monitoring_in_Infrastructure-Less_Areas_LoRa_Mesh_Networking_Approach.pdf",
-    "RRL/RRL PDFs/Unconfirmed 1753.crdownload",
-    "Welcome.md"
+    "RRL/RRL Summary/Arafat, 2019.md",
+    "RRL/__Sources/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
+    "RRL/__Sources/Unmanned_Aerial_Vehicle_Relaying_System_in_Forest_Disaster_Areas.pdf",
+    "RRL/__Sources/UAV-Assisted_Mesh_Network_for_Emergency_Communication_in_Disaster_Areas.pdf",
+    "RRL/RRL Summary/Mesako, 2025.md",
+    "RRL/RRL Summary/Shah, A., 2023.md",
+    "RRL/__Sources/Improvement_of_Emergency_Communication_Systems_Using_Drones_in_5G_and_Beyond_for_Safety_Applications.pdf",
+    "RRL/RRL Summary/Shah, D., 2024.md",
+    "RRL/Notes/Algorithms.md",
+    "RRL/Drone/Lakra, 2025.md",
+    "RRL/Drone/Drone RRL Summary.md",
+    "RRL/__Sources/Creating_a_Resilient_Solution_Innovating_an_Emergency_Response_Drone_for_Natural_Disasters.pdf",
+    "RRL/__Sources/U-Mesh_Deploying_UAV-Mesh_Network_for_Automatic_Powerline_Inspection_in_Remote_Areas.pdf",
+    "RRL/__Sources/Implementation_of_Cluster-Based_UAV_Swarm_Networks_for_Emergency_Communications.pdf",
+    "RRL/Drone/Drone Algo Simulation.md",
+    "RRL/__Sources/Autonomous_Drone_with_a_Compact_and_Coaxial_Redundant_Motor_System_for_Disaster_Relief_Using_Spatial_AI.pdf",
+    "Pasted image 20261124024113.png",
+    "RRL/RRL Summary/Shah, A, 2025.md",
+    "RRL/__Sources/Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks.pdf",
+    "RRL/__Sources/Images/Pasted image 20261123115137.png",
+    "RRL/RRL Summary/Saif, 2020.md",
+    "RRL/RRL Summary/Rabahi, 2023.md",
+    "RRL/RRL Summary/Farithkhan, 2024.md",
+    "RRL/RRL Summary/Choi & Kim, 2026.md",
+    "RRL/Pan, 2022.md",
+    "RRL/Notes/UAV Comm Protocol.md",
+    "RRL/Notes/Architecture.md",
+    "RRL/__Sources/Images/Pasted image 20261124003247.png",
+    "RRL/__Sources/Images/Pasted image 20261124003224.png",
+    "DJI Neo 2 Fly More Combo.md",
+    "Templates/Reviewed Works Synthesis.md",
+    "Untitled.md",
+    "RRL/__Sources/Images/Pasted image 20261123154758.png",
+    "RRL/__Sources/Pasted image 20261120135127.png",
+    "RRL/Notes.md"
   ]
 }

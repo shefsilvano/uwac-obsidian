@@ -18,13 +18,13 @@ Network Protocol
 - used for ESP32 
  
  
- Mesh to App - [[Architecture for Drone Assisted Emergency Ad-hoc Network for Disaster Rescue Operations]]
+ Mesh to App - [[Ganesh, 2021]]
 
 
-Backhaul/ LTE Extension - [[Unmanned_Aerial_Vehicles_for_Post-Disaster_Communication_Networks]]
+Backhaul/ LTE Extension - [[Saif, 2020]]
 
 
 Drone localization/ routing/ swarm intelligence 
--[[Localization and Clustering Based on Swarm Intelligence in UAV Networks for Emergency Communications]]
--[[UAV-Assisted Mesh Network for Emergency Communication in Disaster Areas]]
+-[[Arafat, 2019]]
+-[[Rabahi, 2023]]
 
