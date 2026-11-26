@@ -1,6 +1,6 @@
 ---
 Author/s: Shah, A., Karabulut, Rabie
-Title: Improvement of Emergency Communication Systems Using Drones in 5G and Beyond for Safety Applications
+Title: "[[Improvement_of_Emergency_Communication_Systems_Using_Drones_in_5G_and_Beyond_for_Safety_Applications.pdf]]"
 Publication: Future Networks World Forum
 Category: "[[Algorithms]]"
 Summary: Optimization of CUCO and PSO meta-heuristic algorithms to improve cluster size and the network  throughput and packet dropping rate in effect.

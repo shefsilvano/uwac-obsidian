@@ -1,6 +1,6 @@
 ---
 Author/s: Arafat & Moh
-Title: Localization and Clustering Based on Swarm Intelligence in UAV Networks for Emergency Communications
+Title: "[[Localization_and_Clustering_Based_on_Swarm_Intelligence_in_UAV_Networks_for_Emergency_Communications.pdf]]"
 Publication: IEEE Internet of Things Journal
 Category: "[[Algorithms]]"
 Summary: Proposed swarm-intelligence-based localization algorithm and energy-efficient clustering algorithm for improved wireless coverage of UAV networks.
