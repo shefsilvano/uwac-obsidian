@@ -44,3 +44,7 @@ Components:
 * Utilized 4 drones for field testing 
 * 2.4 GHz WiFi link for mesh, 920 MHz radio link for the drone control 
 
+
+
+### [[https://www.droneskyhook.com/post/types-of-drone-payloads-for-the-dji-drone?srsltid=AYCX9vKp8gntZ2gXugsgXeFwJSyE1I2NCVWf8Ju2Nl3GbeeZo63SX5iS|Payload Reference]]
+

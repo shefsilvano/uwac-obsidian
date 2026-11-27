@@ -6,7 +6,7 @@
       {
         "id": "2981eeb943199c3b",
         "type": "tabs",
-        "dimension": 38.912855910267474,
+        "dimension": 47.66839378238342,
         "children": [
           {
             "id": "1e1b14fca1253b07",
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RRL/RRL Summary/Esrafilian, 2020.md",
+                "file": "RRL/RRL Summary/Trotta, 2020.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esrafilian, 2020"
+              "title": "Trotta, 2020"
             }
           }
         ],
@@ -111,7 +111,7 @@
       {
         "id": "a2e57b1f00961a1c",
         "type": "tabs",
-        "dimension": 61.087144089732526,
+        "dimension": 52.331606217616574,
         "children": [
           {
             "id": "369b3917386d54f5",
@@ -130,23 +130,70 @@
             }
           },
           {
-            "id": "c5a87b230eab3543",
+            "id": "3ac67788222cd00f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "RRL/__Sources/Autonomous_UAV-aided_Mesh_Wireless_Networks.pdf",
+                "file": "RRL/__Sources/Towards_Enhancement_of_Network_Communication_Architectures_and_Routing_Protocols_for_FANETs_A_Survey.pdf",
                 "page": 1,
-                "left": -20,
-                "top": 796,
-                "zoom": 0.8039215686274511
+                "left": -24,
+                "top": 599,
+                "zoom": 0.678921568627451
               },
               "icon": "lucide-file-text",
-              "title": "Autonomous_UAV-aided_Mesh_Wireless_Networks"
+              "title": "Towards_Enhancement_of_Network_Communication_Architectures_and_Routing_Protocols_for_FANETs_A_Survey"
+            }
+          },
+          {
+            "id": "57004b3ee5313e3c",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "RRL/__Sources/A_Modular_Communication_Architecture_for_Adaptive_UAV_Swarms.pdf",
+                "page": 6,
+                "left": -24,
+                "top": 680,
+                "zoom": 0.678921568627451
+              },
+              "icon": "lucide-file-text",
+              "title": "A_Modular_Communication_Architecture_for_Adaptive_UAV_Swarms"
+            }
+          },
+          {
+            "id": "5780e9d49334b1de",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRL/RRL Summary/Ganesh, 2021.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ganesh, 2021"
+            }
+          },
+          {
+            "id": "096f9207795994dc",
+            "type": "leaf",
+            "dimension": 25,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRL/RRL Summary/Shah, A, 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shah, A, 2025"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -317,52 +364,52 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c5a87b230eab3543",
+  "active": "096f9207795994dc",
   "lastOpenFiles": [
+    "RRL/RRL Summary/Saif, 2020.md",
+    "RRL/__Sources/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
+    "RRL/RRL Summary/Ganesh, 2021.md",
+    "RRL/Notes/System Architecture.md",
+    "RRL/__Sources/A_GPS-Free_Flocking_Model_for_Aerial_Mesh_Deployments_in_Disaster-Recovery_Scenarios.pdf",
+    "RRL/RRL Summary/Trotta, 2020.md",
+    "RRL/__Sources/A_Modular_Communication_Architecture_for_Adaptive_UAV_Swarms.pdf",
+    "RRL/RRL Summary/Rotta 2024.md",
+    "RRL/__Sources/B.A.T.M.A.N._Mesh_Networking_on_ESP32s_802.11.pdf",
+    "RRL/RRL Summary/Verde, 2025.md",
+    "RRL/RRL Summary/Tham, 2023.md",
+    "RRL/Drone/Drone Algo Simulation.md",
+    "RRL/Notes/FANET.md",
+    "RRL/Notes/Algorithms.md",
+    "RRL/Notes/Algorithms/AODV.md",
+    "RRL/Notes/UAV Comm Protocol.md",
+    "RRL/Notes/Algorithms/SDN-hosted routing algorithm.md",
+    "RRL/__Sources/Unconfirmed 152055.crdownload",
+    "Pasted image 20261127111706.png",
+    "RRL/RRL Summary/Farithkhan, 2024.md",
+    "RRL/__Sources/Unconfirmed 488404.crdownload",
+    "RRL/__Sources/Unconfirmed 73649.crdownload",
+    "RRL/RRL Summary/Guillen Perez, 2016.md",
+    "RRL/__Sources/Towards_Enhancement_of_Network_Communication_Architectures_and_Routing_Protocols_for_FANETs_A_Survey.pdf",
     "RRL/RRL Summary/Esrafilian, 2020.md",
+    "RRL/Drone/Drone RRL Summary.md",
     "RRL/__Sources/Autonomous_UAV-aided_Mesh_Wireless_Networks.pdf",
     "RRL/Summary.base",
-    "RRL/__Sources/A Reliable and Secure ClusterRouting Framework for DroneAssisted Disaster Management in Smart Cities.pdf",
-    "RRL/__Sources/A_WiFi_Mesh_Sensor_Network_for_Sustainable_Livestock_Farming_Real-Time_Monitoring_System_of_NH3_and_CO2_Emissions.pdf",
-    "RRL/__Sources/AI-Powered_Drone_Network_for_Disaster_Response_Enhancing_Damage_Detection_and_Communication_Beyond_5G.pdf",
-    "RRL/__Sources/Architecture_for_Drone_Assisted_Emergency_Ad-hoc_Network_for_Disaster_Rescue_Operations.pdf",
-    "RRL/Notes/FANET.md",
-    "RRL/Notes/System Architecture.md",
-    "RRL/Notes/UAV Comm Protocol.md",
-    "RRL/__Sources/Towards_Enhancement_of_Network_Communication_Architectures_and_Routing_Protocols_for_FANETs_A_Survey.pdf",
-    "RRL/RRL Summary/Tham, 2023.md",
-    "RRL/__Sources/Cluster-Based_Routing_Protocols_for_Flying_Ad_Hoc_Networks_FANETs.pdf",
-    "RRL/__Sources/Unconfirmed 736910.crdownload",
-    "RRL/__Sources/Realtime FANET Mesh Routing Protocol Testbed.pdf",
-    "RRL/Notes/Algorithms/SDN-hosted routing algorithm.md",
-    "RRL/Notes/Algorithms.md",
     "RRL/RRL Summary/Arafat, 2019.md",
-    "RRL/RRL Summary/Guillen Perez, 2016.md",
     "RRL/Summary of RRLs.md",
-    "RRL/RRL Summary/Ganesh, 2021.md",
     "Pasted image 20261126114538.png",
     "Pasted image 20261126114222.png",
     "Pasted image 20261126113954.png",
     "RRL/RRL Summary/Mesako, 2025.md",
     "RRL/RRL Summary/Rabahi, 2023.md",
-    "RRL/RRL Summary/Saif, 2020.md",
     "RRL/RRL Summary/Shah, A, 2025.md",
     "RRL/RRL Summary/Shah, A., 2023.md",
-    "RRL/RRL Summary/Verde, 2025.md",
     "RRL/RRL Summary/Shah, D., 2024.md",
-    "RRL/RRL Summary/Farithkhan, 2024.md",
     "RRL/RRL Summary/Choi & Kim, 2026.md",
-    "RRL/Notes/Algorithms/AODV.md",
-    "RRL/Drone/Lakra, 2025.md",
-    "RRL/RRL Summary/Pan, 2022.md",
     "RRL/__Sources/Images/Pasted image 20261120135127.png",
     "RRL/__Sources/Images/Pasted image 20261124024113.png",
-    "DJI Neo 2 Fly More Combo.md",
     "RRL/__Sources/Images/Pasted image 20261125184428.png",
     "RRL/__Sources/Images/Pasted image 20261125184331.png",
     "RRL/__Sources/Images/Pasted image 20261125180240.png",
-    "RRL/__Sources/Images/Pasted image 20261125174913.png",
-    "RRL/Drone/Drone Algo Simulation.md",
-    "RRL/__Sources/Images/Pasted image 20261125154421.png"
+    "RRL/__Sources/Images/Pasted image 20261125174913.png"
   ]
 }

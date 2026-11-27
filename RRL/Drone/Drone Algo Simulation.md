@@ -9,3 +9,6 @@
 	* https://github.com/telematics-lab/IoD_Sim
 	* [[Internet_of_Drones_Simulator_Design_Implementation_and_Performance_Evaluation.pdf]]
 
+4.  OMNET++
+	 * [[A_GPS-Free_Flocking_Model_for_Aerial_Mesh_Deployments_in_Disaster-Recovery_Scenarios.pdf|Almost similar archi but simulation-based]]
+	 * 
